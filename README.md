@@ -1,4 +1,4 @@
-# Binariks_Java_Training_2021
+#Training_2021
 Ruslan Hetman  --> Hometask --> Binariks
 
 hometask1 - Д/З 1 ЛЕКЦІЯ,
